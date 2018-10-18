@@ -11,3 +11,22 @@
       5. Apoyo, a un costo menor o igual al que el usuario está dispuesto a pagar.
       
     Resumiendo podemos decir, que la calidad de software se refiere a: “Los factores de un producto de software que contribuyen a la satisfacción completa y total de las necesidades de un usuario u organización”.
+
+  1.2 ESTANDARES DE CALIDAD DEL SOFTWARE
+
+    Los estándares de calidad de software hacen parte de la ingeniería de software, utilización de estándares y metodologías para el diseño, programación, prueba y análisis del software desarrollado
+    
+    ISO 12207 – Modelos de Ciclos de Vida del Software.
+      Estándar para los procesos de ciclo de vida del software de la organización, Este estándar se concibió para aquellos interesados en adquisición de software, así como desarrolladores y proveedores. El estándar indica una serie de procesos desde la recopilación de requisitos hasta la culminación del software.
+    
+    ISO 9000: Gestión y aseguramiento de calidad (conceptos y directrices generales).Recomendaciones externas para aseguramiento de la calidad (ISO 9001, ISO 9002, ISO 9003).
+    
+    ISO 9001: Sistema de calidad- Modelo de aseguramiento de la calidad en diseño/ desarrollo producción, instalación y servicio.
+    
+    ISO 9002: Sistemas de calidad- Modelo de aseguramiento de la calidad en la producción e instalación.
+
+      La norma ISO 9002 evalúa todos los recursos humanos y técnicos y los procedimientos administrativos, que garantizan la operación continua y efectiva del sistema de calidad en una empresa. es necesaria la supervisión constante y el cumplimiento de especificaciones.
+    
+    ISO 9003: Sistemas de calidad- Modelo aseguramiento de la calidad
+
+      Se enfatiza en los requisitos del sistema de calidad especificados en la ISO-9001 y en la ISO-9002 Son complementarios, Estas normas establecen requisitos que determinan que elementos tienen que comprender los sistemas de calidad, el deño de estas normas permiten que están sean genéricas.
